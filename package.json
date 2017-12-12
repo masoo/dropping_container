@@ -1,5 +1,7 @@
 {
   "name": "sf_dropping_container",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "matter-js": "^0.14.0"
+  }
 }

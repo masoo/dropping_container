@@ -12,4 +12,5 @@
 //
 //= require rails-ujs
 //= require turbolinks
+//= require matter-js/build/matter.min
 //= require_tree .
