@@ -12,5 +12,7 @@
 //
 //= require rails-ujs
 //= require turbolinks
+//= require jquery/dist/jquery.min
+//= require bootstrap-sass/assets/javascripts/bootstrap.min
 //= require matter-js/build/matter.min
 //= require_tree .
