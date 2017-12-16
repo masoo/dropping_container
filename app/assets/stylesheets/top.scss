@@ -2,5 +2,16 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-$fa-font-path: "font-awesome/fonts";
-@import "font-awesome/scss/font-awesome";
+.wf-mplus1p {
+  font-family: "Mplus 1p";
+}
+
+h1#big_title {
+  color: red;
+  text-align: center;
+}
+
+div#lolipop canvas {
+  width: 100%;
+  height: auto;
+}

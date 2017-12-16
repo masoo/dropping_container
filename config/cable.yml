@@ -7,4 +7,4 @@ test:
 production:
   adapter: redis
   url: redis://localhost:6379/1
-  channel_prefix: sf_dropping_container_production
+  channel_prefix: dropping_container_production

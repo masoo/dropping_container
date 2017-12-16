@@ -13,4 +13,11 @@
  *= require_tree .
  *= require_self
  */
- @import 'bootstrap-sass/assets/stylesheets/bootstrap';
+$fa-font-path: "font-awesome/fonts";
+@import "font-awesome/scss/font-awesome";
+@import 'bootstrap-sass/assets/stylesheets/bootstrap';
+@import 'https://fonts.googleapis.com/earlyaccess/mplus1p.css';
+
+body {
+  background-color: #fc3;
+}
