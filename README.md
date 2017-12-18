@@ -1,24 +1,18 @@
-# README
+# Dropping containers
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is "Dropping containers".
 
-Things you may want to cover:
+## technology
 
-* Ruby version
+This application is built whit Ruby on Rails.  
+Inner technology is used ActionCable and [matter.js](http://brm.io/matter-js/).
 
-* System dependencies
+### Getting Start
 
-* Configuration
+```
+$ cd dropping_container
+$ rails s
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### License
+Code is under [The MIT license](LICENSE)
